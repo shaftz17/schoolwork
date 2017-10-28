@@ -6,10 +6,7 @@ namespace KiaTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Wold!");
-
-
-            //HELLO SHAFTMAN
+            Console.WriteLine("Hello World!");
         }
     }
 }
