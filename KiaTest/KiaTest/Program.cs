@@ -6,7 +6,7 @@ namespace KiaTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("japanese dude jacking off 50 times");
         }
     }
 }
